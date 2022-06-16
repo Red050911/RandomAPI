@@ -14,5 +14,5 @@ public final class RandomAPI extends JavaPlugin {
     public void onDisable() {
         // Plugin shutdown logic
     }
-    
+
 }

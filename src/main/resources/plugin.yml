@@ -1,5 +1,5 @@
 name: RandomAPI
-version: '${project.version}'
+version: INDEV-SNAPSHOT
 main: io.github.red050911.plugin.randomapi.RandomAPI
 api-version: 1.19
 authors: [ Red050911 ]

@@ -1,0 +1,6 @@
+name: RandomAPI
+version: '${project.version}'
+main: io.github.red050911.plugin.randomapi.RandomAPI
+api-version: 1.19
+authors: [ Red050911 ]
+description: An API plugin that adds features for plugin developers.
